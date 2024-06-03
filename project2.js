@@ -29,7 +29,6 @@ videocon.addEventListener("mouseleave", function() {
 cursoreffect()
 
 
-
 function loadinganimation() {
     gsap.from("#page1 h1", {
       y: 100,
