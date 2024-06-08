@@ -273,6 +273,7 @@ hr{
     margin-left: 220px;
     margin-top: 3vh;
     margin-right: 220px;
+    align-items: center;
 }
 #bottom-text h3{
     font-size: 1.2vw;
